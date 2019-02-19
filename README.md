@@ -1,2 +1,2 @@
 # CSCI_220_Computer_Programming
-This repository holds all of my homework assignments. This is an introductory course teaching Python.
+CSCI 220 is an introduction to Python programming course. This repo holds all of my homework assignments for the course.
